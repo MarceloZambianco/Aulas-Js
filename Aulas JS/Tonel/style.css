@@ -1,0 +1,10 @@
+* {
+    margin: 20px;
+}
+div {
+    height: 300px;
+    width: 300px;
+    border: 2px solid blue;
+    text-align: center;
+    justify-self: center;
+}
